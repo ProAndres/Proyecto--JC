@@ -1,0 +1,28 @@
+.chiron-sung-hk-letra {
+  font-family: "Chiron Sung HK", serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 1px 30px;
+    background-color: black;
+    color : white;
+}
+
+body {
+  font-family: "Chiron Sung HK", serif;
+  margin: 0;
+  background-color: white
+
+}
+
+.ulNav{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
